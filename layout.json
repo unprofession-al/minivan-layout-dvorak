@@ -1,0 +1,1111 @@
+{
+   "keymap" : [
+      [
+         [
+            {
+               "value" : "ESCAPE",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "value" : "'",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "value" : ",",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "value" : ".",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "value" : "P",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "value" : "Y",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "value" : "F",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "value" : "G",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "C"
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "R"
+            },
+            {
+               "value" : "L",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "BSPACE"
+            }
+         ],
+         [
+            {
+               "value" : "TAB",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "value" : "A",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "O"
+            },
+            {
+               "value" : "E",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "U"
+            },
+            {
+               "value" : "I",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "D"
+            },
+            {
+               "value" : "H",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "value" : "T",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "value" : "N",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "S"
+            },
+            {
+               "type" : "tapkey",
+               "mod" : "L1",
+               "value" : "ENTER"
+            }
+         ],
+         [
+            {
+               "type" : "tapkey",
+               "mod" : "LSHIFT",
+               "value" : "/"
+            },
+            {
+               "value" : ";",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "Q"
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "J"
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "K"
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "X"
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "B"
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "M"
+            },
+            {
+               "value" : "W",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "value" : "V",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "Z"
+            },
+            {
+               "value" : "L2",
+               "mod" : null,
+               "type" : "momentary"
+            }
+         ],
+         [
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "LCTRL"
+            },
+            {
+               "value" : "LALT",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "value" : "LGUI",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "SPACE"
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "~"
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "RALT"
+            },
+            {
+               "value" : "L4",
+               "mod" : null,
+               "type" : "toggle"
+            },
+            {
+               "value" : "L3",
+               "mod" : null,
+               "type" : "momentary"
+            }
+         ]
+      ],
+      [
+         [
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "value" : "!",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "@"
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "#"
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "$"
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "%"
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "^"
+            },
+            {
+               "value" : "&",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "*"
+            },
+            {
+               "value" : "(",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "value" : ")",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "`"
+            }
+         ],
+         [
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "\\"
+            },
+            {
+               "value" : "'",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "-"
+            },
+            {
+               "value" : "=",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "value" : "[",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "]"
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "TRNS"
+            }
+         ],
+         [
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "value" : "|",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "value" : "\"",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "value" : "_",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "+"
+            },
+            {
+               "value" : "{",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "value" : "}",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "value" : "TRNS",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "value" : "TRNS",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
+            }
+         ],
+         [
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "value" : "TRNS",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "TRNS"
+            },
+            {
+               "value" : "TRNS",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "value" : "TRNS",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            }
+         ]
+      ],
+      [
+         [
+            {
+               "value" : "TRNS",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "value" : "TRNS",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "TRNS"
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "value" : "UP",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "TRNS"
+            }
+         ],
+         [
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "PGUP"
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "value" : "TRNS",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "value" : "TRNS",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "value" : "TRNS",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "value" : "LEFT",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "value" : "RIGHT",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
+            }
+         ],
+         [
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "value" : "PGDOWN",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "TRNS"
+            },
+            {
+               "value" : "TRNS",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "TRNS"
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "TRNS"
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "DOWN"
+            },
+            {
+               "value" : "DOWN",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
+            }
+         ],
+         [
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "value" : "TRNS",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "TRNS"
+            },
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
+            }
+         ]
+      ],
+      [
+         [
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "7"
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "8"
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "9"
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "TRNS"
+            },
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "F1"
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "F2"
+            },
+            {
+               "value" : "F3",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "value" : "F4",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "TRNS"
+            }
+         ],
+         [
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "value" : "4",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "5"
+            },
+            {
+               "value" : "6",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "value" : "TRNS",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "TRNS"
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "F5"
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "F6"
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "F7"
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "F8"
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            }
+         ],
+         [
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "TRNS"
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "1"
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "2"
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "3"
+            },
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "TRNS"
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "F9"
+            },
+            {
+               "value" : "F10",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "value" : "F11",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "F12"
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            }
+         ],
+         [
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "TRNS"
+            },
+            {
+               "value" : "0",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "value" : "TRNS",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "value" : "TRNS",
+               "type" : null,
+               "mod" : null
+            },
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "mod" : null,
+               "type" : null,
+               "value" : "TRNS"
+            }
+         ]
+      ],
+      [
+         [
+            {
+               "value" : "TRNS",
+               "type" : null
+            },
+            {
+               "value" : "Q",
+               "type" : null
+            },
+            {
+               "type" : null,
+               "value" : "W"
+            },
+            {
+               "type" : null,
+               "value" : "E"
+            },
+            {
+               "value" : "R",
+               "type" : null
+            },
+            {
+               "value" : "T",
+               "type" : null
+            },
+            {
+               "type" : null,
+               "value" : "Y"
+            },
+            {
+               "type" : null,
+               "value" : "u"
+            },
+            {
+               "type" : null,
+               "value" : "I"
+            },
+            {
+               "type" : null,
+               "value" : "O"
+            },
+            {
+               "value" : "P",
+               "type" : null
+            },
+            {
+               "value" : "TRNS",
+               "type" : null
+            }
+         ],
+         [
+            {
+               "type" : null,
+               "value" : "TRNS"
+            },
+            {
+               "value" : "A",
+               "type" : null
+            },
+            {
+               "value" : "S",
+               "type" : null
+            },
+            {
+               "type" : null,
+               "value" : "D"
+            },
+            {
+               "type" : null,
+               "value" : "F"
+            },
+            {
+               "type" : null,
+               "value" : "G"
+            },
+            {
+               "type" : null,
+               "value" : "H"
+            },
+            {
+               "type" : null,
+               "value" : "J"
+            },
+            {
+               "type" : null,
+               "value" : "K"
+            },
+            {
+               "type" : null,
+               "value" : "L"
+            },
+            {
+               "type" : null,
+               "value" : ";"
+            },
+            {
+               "type" : null,
+               "value" : "TRNS"
+            }
+         ],
+         [
+            {
+               "type" : null,
+               "value" : "TRNS"
+            },
+            {
+               "value" : "Z",
+               "type" : null
+            },
+            {
+               "type" : null,
+               "value" : "X"
+            },
+            {
+               "value" : "C",
+               "type" : null
+            },
+            {
+               "value" : "V",
+               "type" : null
+            },
+            {
+               "type" : null,
+               "value" : "B"
+            },
+            {
+               "value" : "N",
+               "type" : null
+            },
+            {
+               "value" : "M",
+               "type" : null
+            },
+            {
+               "type" : null,
+               "value" : ","
+            },
+            {
+               "value" : ".",
+               "type" : null
+            },
+            {
+               "type" : null,
+               "value" : "/"
+            },
+            {
+               "value" : "TRNS",
+               "type" : null
+            }
+         ],
+         [
+            {
+               "type" : null,
+               "value" : "TRNS"
+            },
+            {
+               "type" : null,
+               "value" : "TRNS"
+            },
+            {
+               "type" : null,
+               "value" : "TRNS"
+            },
+            {
+               "value" : "TRNS",
+               "type" : null
+            },
+            {
+               "value" : "TRNS",
+               "type" : null
+            },
+            {
+               "type" : null,
+               "value" : "TRNS"
+            },
+            {
+               "type" : null,
+               "value" : "TRNS"
+            },
+            {
+               "value" : "TRNS",
+               "type" : null
+            }
+         ]
+      ]
+   ],
+   "arrow" : false
+}
