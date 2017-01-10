@@ -1,4 +1,6 @@
 {
+   "keyboard":"minivan_rev1",
+   "activeLayout":0,   
    "keymap" : [
       [
          [
@@ -1106,6 +1108,5 @@
             }
          ]
       ]
-   ],
-   "arrow" : false
+   ]
 }
