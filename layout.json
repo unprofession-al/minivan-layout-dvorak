@@ -1,22 +1,20 @@
 {
-   "keyboard":"minivan_rev1",
-   "activeLayout":0,   
    "keymap" : [
       [
          [
             {
-               "value" : "ESCAPE",
                "mod" : null,
+               "value" : "ESCAPE",
                "type" : null
             },
             {
-               "value" : "'",
                "type" : null,
+               "value" : "'",
                "mod" : null
             },
             {
-               "value" : ",",
                "mod" : null,
+               "value" : ",",
                "type" : null
             },
             {
@@ -25,18 +23,18 @@
                "type" : null
             },
             {
-               "value" : "P",
-               "type" : null,
-               "mod" : null
-            },
-            {
-               "value" : "Y",
                "mod" : null,
+               "value" : "P",
                "type" : null
             },
             {
-               "value" : "F",
                "type" : null,
+               "mod" : null,
+               "value" : "Y"
+            },
+            {
+               "type" : null,
+               "value" : "F",
                "mod" : null
             },
             {
@@ -45,14 +43,14 @@
                "type" : null
             },
             {
-               "type" : null,
                "mod" : null,
-               "value" : "C"
+               "value" : "C",
+               "type" : null
             },
             {
-               "mod" : null,
                "type" : null,
-               "value" : "R"
+               "value" : "R",
+               "mod" : null
             },
             {
                "value" : "L",
@@ -60,26 +58,26 @@
                "type" : null
             },
             {
-               "mod" : null,
                "type" : null,
-               "value" : "BSPACE"
+               "value" : "BSPACE",
+               "mod" : null
             }
          ],
          [
             {
                "value" : "TAB",
-               "type" : null,
-               "mod" : null
+               "mod" : null,
+               "type" : null
             },
             {
                "value" : "A",
-               "type" : null,
-               "mod" : null
+               "mod" : null,
+               "type" : null
             },
             {
-               "type" : null,
+               "value" : "O",
                "mod" : null,
-               "value" : "O"
+               "type" : null
             },
             {
                "value" : "E",
@@ -88,28 +86,28 @@
             },
             {
                "type" : null,
-               "mod" : null,
-               "value" : "U"
-            },
-            {
-               "value" : "I",
-               "type" : null,
+               "value" : "U",
                "mod" : null
             },
             {
-               "mod" : null,
-               "type" : null,
-               "value" : "D"
-            },
-            {
-               "value" : "H",
+               "value" : "I",
                "mod" : null,
                "type" : null
             },
             {
+               "value" : "D",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "mod" : null,
+               "value" : "H",
+               "type" : null
+            },
+            {
+               "mod" : null,
                "value" : "T",
-               "type" : null,
-               "mod" : null
+               "type" : null
             },
             {
                "value" : "N",
@@ -117,31 +115,31 @@
                "type" : null
             },
             {
-               "type" : null,
+               "value" : "S",
                "mod" : null,
-               "value" : "S"
+               "type" : null
             },
             {
                "type" : "tapkey",
-               "mod" : "L1",
-               "value" : "ENTER"
+               "value" : "ENTER",
+               "mod" : "L1"
             }
          ],
          [
             {
-               "type" : "tapkey",
+               "value" : "/",
                "mod" : "LSHIFT",
-               "value" : "/"
+               "type" : "tapkey"
             },
             {
-               "value" : ";",
                "type" : null,
-               "mod" : null
-            },
-            {
                "mod" : null,
-               "type" : null,
-               "value" : "Q"
+               "value" : ";"
+            },
+            {
+               "value" : "Q",
+               "mod" : null,
+               "type" : null
             },
             {
                "type" : null,
@@ -150,23 +148,23 @@
             },
             {
                "mod" : null,
-               "type" : null,
-               "value" : "K"
+               "value" : "K",
+               "type" : null
+            },
+            {
+               "value" : "X",
+               "mod" : null,
+               "type" : null
             },
             {
                "mod" : null,
-               "type" : null,
-               "value" : "X"
+               "value" : "B",
+               "type" : null
             },
             {
-               "type" : null,
                "mod" : null,
-               "value" : "B"
-            },
-            {
-               "type" : null,
-               "mod" : null,
-               "value" : "M"
+               "value" : "M",
+               "type" : null
             },
             {
                "value" : "W",
@@ -174,36 +172,36 @@
                "type" : null
             },
             {
-               "value" : "V",
                "type" : null,
+               "value" : "V",
                "mod" : null
             },
             {
                "mod" : null,
-               "type" : null,
-               "value" : "Z"
+               "value" : "Z",
+               "type" : null
             },
             {
+               "type" : "momentary",
                "value" : "L2",
-               "mod" : null,
-               "type" : "momentary"
+               "mod" : null
             }
          ],
          [
             {
-               "mod" : null,
                "type" : null,
+               "mod" : null,
                "value" : "LCTRL"
             },
             {
-               "value" : "LALT",
                "type" : null,
-               "mod" : null
+               "mod" : null,
+               "value" : "LALT"
             },
             {
                "value" : "LGUI",
-               "type" : null,
-               "mod" : null
+               "mod" : null,
+               "type" : null
             },
             {
                "type" : null,
@@ -211,24 +209,24 @@
                "value" : "SPACE"
             },
             {
-               "type" : null,
+               "value" : "~",
                "mod" : null,
-               "value" : "~"
+               "type" : null
             },
             {
-               "type" : null,
                "mod" : null,
-               "value" : "RALT"
+               "value" : "RALT",
+               "type" : null
             },
             {
-               "value" : "L4",
+               "type" : "toggle",
                "mod" : null,
-               "type" : "toggle"
+               "value" : "L4"
             },
             {
-               "value" : "L3",
+               "type" : "momentary",
                "mod" : null,
-               "type" : "momentary"
+               "value" : "L3"
             }
          ]
       ],
@@ -236,23 +234,23 @@
          [
             {
                "type" : null,
-               "mod" : null,
-               "value" : "TRNS"
-            },
-            {
-               "value" : "!",
-               "type" : null,
+               "value" : "TRNS",
                "mod" : null
             },
             {
+               "value" : "!",
                "mod" : null,
+               "type" : null
+            },
+            {
                "type" : null,
+               "mod" : null,
                "value" : "@"
             },
             {
+               "value" : "#",
                "mod" : null,
-               "type" : null,
-               "value" : "#"
+               "type" : null
             },
             {
                "type" : null,
@@ -260,14 +258,14 @@
                "value" : "$"
             },
             {
+               "value" : "%",
                "mod" : null,
-               "type" : null,
-               "value" : "%"
+               "type" : null
             },
             {
-               "type" : null,
                "mod" : null,
-               "value" : "^"
+               "value" : "^",
+               "type" : null
             },
             {
                "value" : "&",
@@ -280,41 +278,41 @@
                "value" : "*"
             },
             {
+               "type" : null,
                "value" : "(",
-               "type" : null,
-               "mod" : null
-            },
-            {
-               "value" : ")",
-               "type" : null,
                "mod" : null
             },
             {
                "mod" : null,
+               "value" : ")",
+               "type" : null
+            },
+            {
                "type" : null,
-               "value" : "`"
+               "value" : "`",
+               "mod" : null
             }
          ],
          [
             {
+               "type" : null,
                "value" : "TRNS",
+               "mod" : null
+            },
+            {
+               "value" : "\\",
                "mod" : null,
                "type" : null
             },
             {
-               "mod" : null,
                "type" : null,
-               "value" : "\\"
-            },
-            {
                "value" : "'",
-               "mod" : null,
-               "type" : null
+               "mod" : null
             },
             {
                "mod" : null,
-               "type" : null,
-               "value" : "-"
+               "value" : "-",
+               "type" : null
             },
             {
                "value" : "=",
@@ -327,9 +325,19 @@
                "type" : null
             },
             {
+               "mod" : null,
+               "value" : "]",
+               "type" : null
+            },
+            {
                "type" : null,
                "mod" : null,
-               "value" : "]"
+               "value" : "TRNS"
+            },
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
             },
             {
                "type" : null,
@@ -344,24 +352,14 @@
             {
                "type" : null,
                "mod" : null,
-               "value" : "TRNS"
-            },
-            {
-               "value" : "TRNS",
-               "mod" : null,
-               "type" : null
-            },
-            {
-               "mod" : null,
-               "type" : null,
                "value" : "TRNS"
             }
          ],
          [
             {
-               "type" : null,
                "mod" : null,
-               "value" : "TRNS"
+               "value" : "?",
+               "type" : null
             },
             {
                "value" : "|",
@@ -369,14 +367,14 @@
                "type" : null
             },
             {
-               "value" : "\"",
                "type" : null,
+               "value" : "\"",
                "mod" : null
             },
             {
-               "value" : "_",
+               "type" : null,
                "mod" : null,
-               "type" : null
+               "value" : "_"
             },
             {
                "type" : null,
@@ -384,39 +382,39 @@
                "value" : "+"
             },
             {
+               "type" : null,
                "value" : "{",
-               "mod" : null,
-               "type" : null
-            },
-            {
-               "value" : "}",
-               "mod" : null,
-               "type" : null
-            },
-            {
-               "value" : "TRNS",
-               "mod" : null,
-               "type" : null
-            },
-            {
-               "type" : null,
-               "mod" : null,
-               "value" : "TRNS"
-            },
-            {
-               "value" : "TRNS",
-               "type" : null,
                "mod" : null
             },
             {
-               "value" : "TRNS",
                "type" : null,
+               "mod" : null,
+               "value" : "}"
+            },
+            {
+               "type" : null,
+               "value" : "TRNS",
                "mod" : null
             },
             {
+               "type" : null,
                "value" : "TRNS",
+               "mod" : null
+            },
+            {
                "mod" : null,
+               "value" : "TRNS",
                "type" : null
+            },
+            {
+               "mod" : null,
+               "value" : "TRNS",
+               "type" : null
+            },
+            {
+               "type" : null,
+               "value" : "TRNS",
+               "mod" : null
             }
          ],
          [
@@ -426,8 +424,23 @@
                "value" : "TRNS"
             },
             {
-               "value" : "TRNS",
                "type" : null,
+               "value" : "TRNS",
+               "mod" : null
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "type" : null,
+               "value" : "TRNS",
                "mod" : null
             },
             {
@@ -437,36 +450,36 @@
             },
             {
                "mod" : null,
-               "type" : null,
-               "value" : "TRNS"
-            },
-            {
                "value" : "TRNS",
-               "type" : null,
-               "mod" : null
+               "type" : null
             },
             {
                "value" : "TRNS",
                "mod" : null,
                "type" : null
-            },
-            {
-               "value" : "TRNS",
-               "type" : null,
-               "mod" : null
-            },
-            {
-               "type" : null,
-               "mod" : null,
-               "value" : "TRNS"
             }
          ]
       ],
       [
          [
             {
-               "value" : "TRNS",
                "type" : null,
+               "value" : "TRNS",
+               "mod" : null
+            },
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "type" : null,
+               "value" : "TRNS",
                "mod" : null
             },
             {
@@ -480,8 +493,18 @@
                "type" : null
             },
             {
+               "mod" : null,
                "value" : "TRNS",
+               "type" : null
+            },
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
+            },
+            {
                "type" : null,
+               "value" : "TRNS",
                "mod" : null
             },
             {
@@ -490,46 +513,21 @@
                "type" : null
             },
             {
-               "mod" : null,
                "type" : null,
-               "value" : "TRNS"
-            },
-            {
-               "type" : null,
-               "mod" : null,
-               "value" : "TRNS"
-            },
-            {
-               "type" : null,
-               "mod" : null,
-               "value" : "TRNS"
-            },
-            {
-               "value" : "TRNS",
-               "mod" : null,
-               "type" : null
-            },
-            {
-               "type" : null,
-               "mod" : null,
-               "value" : "TRNS"
-            },
-            {
                "value" : "UP",
-               "mod" : null,
-               "type" : null
+               "mod" : null
             },
             {
-               "mod" : null,
                "type" : null,
-               "value" : "TRNS"
+               "value" : "TRNS",
+               "mod" : null
             }
          ],
          [
             {
-               "value" : "TRNS",
+               "type" : null,
                "mod" : null,
-               "type" : null
+               "value" : "TRNS"
             },
             {
                "type" : null,
@@ -538,22 +536,27 @@
             },
             {
                "type" : null,
-               "mod" : null,
-               "value" : "TRNS"
-            },
-            {
                "value" : "TRNS",
-               "type" : null,
                "mod" : null
             },
             {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
+            },
+            {
                "type" : null,
                "mod" : null,
                "value" : "TRNS"
             },
             {
-               "value" : "TRNS",
                "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "type" : null,
+               "value" : "TRNS",
                "mod" : null
             },
             {
@@ -565,16 +568,11 @@
                "value" : "TRNS",
                "mod" : null,
                "type" : null
-            },
-            {
-               "value" : "TRNS",
-               "type" : null,
-               "mod" : null
             },
             {
                "value" : "LEFT",
-               "type" : null,
-               "mod" : null
+               "mod" : null,
+               "type" : null
             },
             {
                "value" : "RIGHT",
@@ -582,9 +580,9 @@
                "type" : null
             },
             {
-               "value" : "TRNS",
+               "type" : null,
                "mod" : null,
-               "type" : null
+               "value" : "TRNS"
             }
          ],
          [
@@ -594,8 +592,18 @@
                "value" : "TRNS"
             },
             {
-               "value" : "PGDOWN",
+               "type" : null,
                "mod" : null,
+               "value" : "PGDOWN"
+            },
+            {
+               "type" : null,
+               "value" : "TRNS",
+               "mod" : null
+            },
+            {
+               "mod" : null,
+               "value" : "TRNS",
                "type" : null
             },
             {
@@ -604,86 +612,76 @@
                "value" : "TRNS"
             },
             {
-               "mod" : null,
                "type" : null,
-               "value" : "TRNS"
-            },
-            {
                "value" : "TRNS",
-               "type" : null,
                "mod" : null
             },
             {
                "type" : null,
+               "value" : "TRNS",
+               "mod" : null
+            },
+            {
+               "type" : null,
+               "value" : "TRNS",
+               "mod" : null
+            },
+            {
                "mod" : null,
-               "value" : "TRNS"
+               "value" : "TRNS",
+               "type" : null
             },
             {
                "type" : null,
                "mod" : null,
-               "value" : "TRNS"
-            },
-            {
-               "mod" : null,
-               "type" : null,
-               "value" : "TRNS"
-            },
-            {
-               "mod" : null,
-               "type" : null,
-               "value" : "TRNS"
-            },
-            {
-               "mod" : null,
-               "type" : null,
                "value" : "DOWN"
             },
             {
-               "value" : "DOWN",
+               "type" : null,
                "mod" : null,
-               "type" : null
+               "value" : "DOWN"
             },
             {
+               "type" : null,
                "value" : "TRNS",
-               "mod" : null,
-               "type" : null
+               "mod" : null
             }
          ],
          [
             {
-               "value" : "TRNS",
-               "mod" : null,
-               "type" : null
-            },
-            {
-               "value" : "TRNS",
-               "mod" : null,
-               "type" : null
-            },
-            {
                "type" : null,
-               "mod" : null,
-               "value" : "TRNS"
-            },
-            {
-               "type" : null,
-               "mod" : null,
-               "value" : "TRNS"
-            },
-            {
                "value" : "TRNS",
-               "mod" : null,
-               "type" : null
-            },
-            {
-               "value" : "TRNS",
-               "type" : null,
                "mod" : null
             },
             {
-               "mod" : null,
                "type" : null,
+               "mod" : null,
                "value" : "TRNS"
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "value" : "TRNS",
+               "mod" : null,
+               "type" : null
             },
             {
                "value" : "TRNS",
@@ -696,33 +694,28 @@
          [
             {
                "type" : null,
+               "value" : "TRNS",
+               "mod" : null
+            },
+            {
+               "value" : "7",
                "mod" : null,
-               "value" : "TRNS"
+               "type" : null
             },
             {
                "mod" : null,
-               "type" : null,
-               "value" : "7"
+               "value" : "8",
+               "type" : null
             },
             {
                "type" : null,
-               "mod" : null,
-               "value" : "8"
-            },
-            {
-               "mod" : null,
-               "type" : null,
-               "value" : "9"
+               "value" : "9",
+               "mod" : null
             },
             {
                "type" : null,
-               "mod" : null,
-               "value" : "TRNS"
-            },
-            {
-               "mod" : null,
-               "type" : null,
-               "value" : "TRNS"
+               "value" : "TRNS",
+               "mod" : null
             },
             {
                "value" : "TRNS",
@@ -730,61 +723,56 @@
                "type" : null
             },
             {
+               "value" : "TRNS",
                "mod" : null,
-               "type" : null,
-               "value" : "F1"
+               "type" : null
             },
             {
-               "type" : null,
+               "value" : "F1",
                "mod" : null,
-               "value" : "F2"
+               "type" : null
             },
             {
+               "value" : "F2",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "mod" : null,
                "value" : "F3",
-               "type" : null,
-               "mod" : null
-            },
-            {
-               "value" : "F4",
-               "type" : null,
-               "mod" : null
+               "type" : null
             },
             {
                "mod" : null,
+               "value" : "F4",
+               "type" : null
+            },
+            {
                "type" : null,
-               "value" : "TRNS"
+               "value" : "TRNS",
+               "mod" : null
             }
          ],
          [
             {
-               "type" : null,
-               "mod" : null,
-               "value" : "TRNS"
-            },
-            {
-               "value" : "4",
-               "type" : null,
-               "mod" : null
-            },
-            {
-               "mod" : null,
-               "type" : null,
-               "value" : "5"
-            },
-            {
-               "value" : "6",
+               "value" : "TRNS",
                "mod" : null,
                "type" : null
             },
             {
-               "value" : "TRNS",
                "type" : null,
+               "value" : "4",
                "mod" : null
             },
             {
                "mod" : null,
-               "type" : null,
-               "value" : "TRNS"
+               "value" : "5",
+               "type" : null
+            },
+            {
+               "mod" : null,
+               "value" : "6",
+               "type" : null
             },
             {
                "type" : null,
@@ -793,40 +781,50 @@
             },
             {
                "type" : null,
+               "value" : "TRNS",
+               "mod" : null
+            },
+            {
                "mod" : null,
-               "value" : "F5"
+               "value" : "TRNS",
+               "type" : null
+            },
+            {
+               "mod" : null,
+               "value" : "F5",
+               "type" : null
+            },
+            {
+               "mod" : null,
+               "value" : "F6",
+               "type" : null
+            },
+            {
+               "value" : "F7",
+               "mod" : null,
+               "type" : null
             },
             {
                "type" : null,
                "mod" : null,
-               "value" : "F6"
-            },
-            {
-               "type" : null,
-               "mod" : null,
-               "value" : "F7"
-            },
-            {
-               "mod" : null,
-               "type" : null,
                "value" : "F8"
             },
             {
                "type" : null,
-               "mod" : null,
-               "value" : "TRNS"
+               "value" : "TRNS",
+               "mod" : null
             }
          ],
          [
             {
                "mod" : null,
-               "type" : null,
-               "value" : "TRNS"
+               "value" : "TRNS",
+               "type" : null
             },
             {
-               "mod" : null,
                "type" : null,
-               "value" : "1"
+               "value" : "1",
+               "mod" : null
             },
             {
                "type" : null,
@@ -839,49 +837,54 @@
                "value" : "3"
             },
             {
+               "type" : null,
+               "mod" : null,
+               "value" : "TRNS"
+            },
+            {
+               "type" : null,
                "value" : "TRNS",
-               "mod" : null,
-               "type" : null
-            },
-            {
-               "type" : null,
-               "mod" : null,
-               "value" : "TRNS"
-            },
-            {
-               "mod" : null,
-               "type" : null,
-               "value" : "TRNS"
-            },
-            {
-               "mod" : null,
-               "type" : null,
-               "value" : "F9"
-            },
-            {
-               "value" : "F10",
-               "mod" : null,
-               "type" : null
-            },
-            {
-               "value" : "F11",
-               "type" : null,
                "mod" : null
             },
             {
-               "type" : null,
                "mod" : null,
-               "value" : "F12"
+               "value" : "TRNS",
+               "type" : null
+            },
+            {
+               "value" : "F9",
+               "mod" : null,
+               "type" : null
+            },
+            {
+               "mod" : null,
+               "value" : "F10",
+               "type" : null
+            },
+            {
+               "mod" : null,
+               "value" : "F11",
+               "type" : null
+            },
+            {
+               "mod" : null,
+               "value" : "F12",
+               "type" : null
             },
             {
                "type" : null,
-               "mod" : null,
-               "value" : "TRNS"
+               "value" : "TRNS",
+               "mod" : null
             }
          ],
          [
             {
                "type" : null,
+               "value" : "TRNS",
+               "mod" : null
+            },
+            {
+               "type" : null,
                "mod" : null,
                "value" : "TRNS"
             },
@@ -891,23 +894,13 @@
                "value" : "TRNS"
             },
             {
-               "mod" : null,
                "type" : null,
-               "value" : "TRNS"
-            },
-            {
                "value" : "0",
-               "mod" : null,
-               "type" : null
-            },
-            {
-               "value" : "TRNS",
-               "type" : null,
                "mod" : null
             },
             {
-               "value" : "TRNS",
                "type" : null,
+               "value" : "TRNS",
                "mod" : null
             },
             {
@@ -916,9 +909,14 @@
                "type" : null
             },
             {
-               "mod" : null,
                "type" : null,
+               "mod" : null,
                "value" : "TRNS"
+            },
+            {
+               "mod" : null,
+               "value" : "TRNS",
+               "type" : null
             }
          ]
       ],
@@ -933,8 +931,8 @@
                "type" : null
             },
             {
-               "type" : null,
-               "value" : "W"
+               "value" : "W",
+               "type" : null
             },
             {
                "type" : null,
@@ -945,16 +943,16 @@
                "type" : null
             },
             {
-               "value" : "T",
-               "type" : null
+               "type" : null,
+               "value" : "T"
             },
             {
                "type" : null,
                "value" : "Y"
             },
             {
-               "type" : null,
-               "value" : "u"
+               "value" : "u",
+               "type" : null
             },
             {
                "type" : null,
@@ -965,18 +963,18 @@
                "value" : "O"
             },
             {
-               "value" : "P",
-               "type" : null
+               "type" : null,
+               "value" : "P"
             },
             {
-               "value" : "TRNS",
-               "type" : null
+               "type" : null,
+               "value" : "TRNS"
             }
          ],
          [
             {
-               "type" : null,
-               "value" : "TRNS"
+               "value" : "TRNS",
+               "type" : null
             },
             {
                "value" : "A",
@@ -991,36 +989,36 @@
                "value" : "D"
             },
             {
-               "type" : null,
-               "value" : "F"
+               "value" : "F",
+               "type" : null
             },
             {
                "type" : null,
                "value" : "G"
             },
             {
-               "type" : null,
-               "value" : "H"
+               "value" : "H",
+               "type" : null
             },
             {
                "type" : null,
                "value" : "J"
             },
             {
-               "type" : null,
-               "value" : "K"
+               "value" : "K",
+               "type" : null
             },
             {
-               "type" : null,
-               "value" : "L"
+               "value" : "L",
+               "type" : null
             },
             {
-               "type" : null,
-               "value" : ";"
+               "value" : ";",
+               "type" : null
             },
             {
-               "type" : null,
-               "value" : "TRNS"
+               "value" : "TRNS",
+               "type" : null
             }
          ],
          [
@@ -1033,20 +1031,20 @@
                "type" : null
             },
             {
-               "type" : null,
-               "value" : "X"
+               "value" : "X",
+               "type" : null
             },
             {
                "value" : "C",
                "type" : null
             },
             {
-               "value" : "V",
-               "type" : null
+               "type" : null,
+               "value" : "V"
             },
             {
-               "type" : null,
-               "value" : "B"
+               "value" : "B",
+               "type" : null
             },
             {
                "value" : "N",
@@ -1083,6 +1081,10 @@
                "value" : "TRNS"
             },
             {
+               "value" : "TRNS",
+               "type" : null
+            },
+            {
                "type" : null,
                "value" : "TRNS"
             },
@@ -1095,12 +1097,8 @@
                "type" : null
             },
             {
-               "type" : null,
-               "value" : "TRNS"
-            },
-            {
-               "type" : null,
-               "value" : "TRNS"
+               "value" : "TRNS",
+               "type" : null
             },
             {
                "value" : "TRNS",
@@ -1108,5 +1106,7 @@
             }
          ]
       ]
-   ]
+   ],
+   "activeLayout" : 0,
+   "keyboard" : "minivan_rev1"
 }
